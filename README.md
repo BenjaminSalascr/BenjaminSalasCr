@@ -1,6 +1,9 @@
 ![GitHubBenjaminSalasCr](https://user-images.githubusercontent.com/33377367/89243021-25a18180-d5c0-11ea-9048-b8c31a72874d.jpg)
+<img src="https://github-readme-stats.vercel.app/api?username=benjaminsalascr&show_icons=true" alt="benjaminsalascr" /> </p>
+<p align="center">
+<a href="https://linkedin.com/in/benjaminsalascr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminsalascr" height="50" width="50" /></a>
+</p>
 
-### Hi there 👋
 
 <!--
 **BenjaminSalascr/BenjaminSalasCr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
