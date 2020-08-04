@@ -1,3 +1,5 @@
+![GitHubBenjaminSalasCr](https://user-images.githubusercontent.com/33377367/89243021-25a18180-d5c0-11ea-9048-b8c31a72874d.jpg)
+
 ### Hi there 👋
 
 <!--
