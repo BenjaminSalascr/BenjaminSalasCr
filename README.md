@@ -1,3 +1,4 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/balexsalas/my-stack)
 ![SkillsBenjaminSalasCr](https://user-images.githubusercontent.com/33377367/89245162-7a93c680-d5c5-11ea-84d0-80881836f431.jpg) </p>
 <p align="center">
 <a href="https://linkedin.com/in/benjaminsalascr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminsalascr" height="50" width="50" /></a>
