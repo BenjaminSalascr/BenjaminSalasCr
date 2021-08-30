@@ -1,5 +1,5 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/balexsalas/my-stack)
-[![Skills-BSC.png](https://i.postimg.cc/RCjMQZkC/Skills-BSC.png)](https://postimg.cc/F1V5hNFw)</p>
+[![Banner-Skills-Linkeding.png](https://i.postimg.cc/mDD24ZcJ/Banner-Skills-Linkeding.png)](https://postimg.cc/f3GhjNff)</p>
 <p align="center">
 <a href="https://linkedin.com/in/benjaminsalascr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminsalascr" height="50" width="50" /></a>
 <a href="https://www.freecodecamp.org/benjaminsalascr"target="blank"><img align="center" src="https://s3.amazonaws.com/freecodecamp/camper-image-placeholder.png" alt="benjaminsalascr" height="60" width="60" /></a>
