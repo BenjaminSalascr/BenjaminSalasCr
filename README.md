@@ -6,9 +6,8 @@
 <a href="https://www.sololearn.com/Profile/5197527"target="blank"><img align="center" src="https://github.com/BenjaminSalascr/hello-world/blob/master/pngegg.png" alt="benjaminsalascr" height="60" width="60" /></a>
 <a href="https://resume.io/r/MDBPlN4ra"target="blank"><img align="center" src="https://user-images.githubusercontent.com/33377367/89701692-86012d80-d8f6-11ea-9d8b-408e6a3a5b4c.jpg" alt="benjaminsalascr" height="100" width="100" /></a>  
 </p>
-Hi ![Saludando](https://user-images.githubusercontent.com/33377367/180117381-999dfa7f-f4c7-41bc-b019-199c42d5707b.gif)
-My name is Benjamin Salas Cubas
-============================================================================================================================================
+Hi everyone !
+My name is <h1><strong>Benjamin Salas</strong></h1>
 
 Web Backend Developer
 ---------------------
@@ -22,13 +21,14 @@ Web Backend Developer
 * Oriented towards meeting objectives.
 * Self-taught and in constant search of new knowledge.
 
-## Location
-* 🌍  I'm based in San José, Costa Rica
-* 🖥️  See my portfolio at [My Portafolio](http://benjaminsalascr.github.io/Portafolio)
-* ✉️  You can contact me at [Balexsalas@gmail.com](mailto:Balexsalas@gmail.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on IoT Things
-* ⚡  I love reading books
+<details><summary><h3>Contact<h3></summary>
+ * 🌍  I'm based in San José, Costa Rica <br>
+ * 🖥️  See my portfolio at [My Portafolio](http://benjaminsalascr.github.io/Portafolio) <br>
+ * ✉️  You can contact me at [Email:](mailto:BenjaminSalas718@gmail.com) <br>
+ * 🧠  I'm learning Machine Learning <br> 
+ * 🤝  I'm open to collaborating on IoT Things <br>
+ * ⚡  I love reading books <br>
+</details>
 
 <a href="https://www.twitter.com/Neobsalas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Neobsalas?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
